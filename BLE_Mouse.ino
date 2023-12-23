@@ -1,13 +1,13 @@
 #include <BleMouse.h>
 
-#define Red_Led
-#define Green_Led
+#define Red_Led 26
+#define Green_Led 27
 
-#define U_Button
-#define D_Button
-#define R_Button
-#define L_Button
-#define C_Button
+#define U_Button 32
+#define D_Button 33
+#define R_Button 34
+#define L_Button 35
+#define C_Button 25
 
 // BLEMOUTS global declatation
 BleMouse bleMouse;
