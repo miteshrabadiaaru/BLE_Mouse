@@ -80,7 +80,7 @@ void button_pressed() {
 }
 // delay between data
 void scroll_delay() {
-  delay(15.5);
+  delay(150);
 }
 // when bluetooth is not connected1
 void not_connected() {
