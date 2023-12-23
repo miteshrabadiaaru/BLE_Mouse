@@ -16,6 +16,8 @@ bool status = true;
 
 void setup() {
   Serial.begin(115200);
+  pinMode(Red_Led, OUTPUT);
+  pinMode(Green_Led, OUTPUT);
   pinMode(U_Button, INPUT);
   pinMode(D_Button, INPUT);
   pinMode(R_Button, INPUT);
