@@ -1,6 +1,7 @@
 #BLE_Mouse
  - This project provides a practical introduction to BLE communication using the ESP32 platform, offering students and enthusiasts a hands-on experience in IoT development. By following the provided instructions and understanding the underlying concepts, participants can expand their knowledge and apply BLE technology to their own projects and applications.
- - The objective of this project is to create a system where an ESP32 development board communicates via BLE with other BLE-enabled devices, such as smartphones or other ESP32 boards
+ - The objective of this project is to create a system where an ESP32 development board communicates via BLE with other BLE-enabled devices, such as smartphones or other ESP32 boards.
+
 ##Libraries Used :
   - ESP32-BLE-Mouse@0.3.1
 
